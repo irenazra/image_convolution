@@ -6,9 +6,10 @@ ADD A SMALL DESCRIPTION OF WHAT THIS PROGRAM IS.
 *[Technologies](#Technologies)
 *[Features](#Features)
 *[Illustrations](#Illustrations)
-*[Examples of Use](#Examples of Use)
-*[Status of the Project](#Status of the Project)
-*[Inspiration](#Status of the Project)
+*[Examples of Use](#Examples_of_Use)
+*[Status of the Project](#Status_of_the_Project)
+*[Inspiration](#Status_of_the_Project)
+
 
 ##Technologies
 
