@@ -18,7 +18,7 @@ This is a simple implemention of 2D image convolution.
 - User is given the option to pick between a colored or gray output. 
 - Stride and image information is received from the user using console input. 
 - Similarly, the output file name is decided by the user and saved with a jpg extension.
--Kernels should be entered in a specific format to the filter.txt file.
+- Kernels should be entered in a specific format to the filter.txt file.
 
 
 ### How to format kernels in the filters.txt file? 
@@ -35,13 +35,13 @@ Program can be used by running the convolution.py file. The image on which the c
 
 Here is an example of a 2D convolution using a 3 by 3 horizontal kernel with a stride of 1:
 
-![Image of some flowers](flowers.jpg)
+![Image of some flowers](convolution/flowers.jpg)
 ![Result of flower convolution](/some_result_images/flowers_stride1_horizontal3by3.jpg)
 
 
 Below are other examples of 2D convolution again using a 3 by 3 horizontal kernel with a stride of 1 and 3:
 
-![Image of a butterfly](testimage.jpg)
+![Image of a butterfly](convolution/testimage.jpg)
 ![Result of convolution stride 1](/some_result_images/testimage_stride1_horizontal3by3.jpg)
 ![Result of convolution stride 3](/some_result_images/testimage_stride3_horizontal3by3.jpg)
 
