@@ -5,8 +5,8 @@ This is a simple implemention of 2D image convolution.
 
 ## Technologies
 
--Python 3.8.5
--Packages Used: numpy, PIL
+- Python 3.8.5
+- Packages Used: numpy, PIL
 
 
 ## Features
