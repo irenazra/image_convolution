@@ -32,6 +32,8 @@ horizontal3by3 1 0 -1 1 0 -1 1 0 -1
 Program can be used by running the convolution.py file. The image on which the convolutions will be performed on and the filters.txt file should be in the same directory. The output will also be saved into the same directory. 
 
 ## Illustrations
+![Image of some flowers](flowers.jpg)
+
 
 ## Status of the Project
 
