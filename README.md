@@ -32,7 +32,22 @@ horizontal3by3 1 0 -1 1 0 -1 1 0 -1
 Program can be used by running the convolution.py file. The image on which the convolutions will be performed on and the filters.txt file should be in the same directory. The output will also be saved into the same directory. 
 
 ## Illustrations
+
+Here is an example of a 2D convolution using a 3 by 3 horizontal kernel with a stride of 1:
+
 ![Image of some flowers](flowers.jpg)
+![Result of flower convolution](/some_result_images/flowers_stride1_horizontal3by3.jpg)
+
+
+Below are other examples of 2D convolution again using a 3 by 3 horizontal kernel with a stride of 1 and 3:
+
+![Image of a butterfly](testimage.jpg)
+![Result of convolution stride 1](/some_result_images/testimage_stride1_horizontal3by3.jpg)
+![Result of convolution stride 3](/some_result_images/testimage_stride3_horizontal3by3.jpg)
+
+
+
+
 
 
 ## Status of the Project
