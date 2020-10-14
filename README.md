@@ -1,4 +1,4 @@
-# imageconvolution
+# image_convolution
 
 This is a simple implemention of 2D image convolution. 
 
